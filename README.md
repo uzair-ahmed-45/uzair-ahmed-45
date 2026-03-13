@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a MERN Stack Developer with an extensive Experience on React js with Tailwind CSS On frontend <br>and Node js along with MongoDB, SQL, PostgreSQL on Backend. I have an experience of 2 years in this field<br> I am currently working on backend projects Nodejs with express.<br>I am currently working in DigiSol 
+I'm a MERN Stack Developer with 2 years of hands-on experience building full-stack web applications. On the frontend, I specialize in React.js paired with Tailwind CSS to craft responsive and intuitive user interfaces. On the backend, I work with Node.js and Express.js, backed by strong proficiency in databases including MongoDB, SQL, and PostgreSQL.
+Currently, I'm focused on developing scalable backend systems at DigiSol, where I contribute to real-world projects that sharpen my engineering skills and deepen my architectural understanding.
+I'm passionate about writing clean, maintainable code and continuously expanding my technical expertise across the full development stack.
 
 
 ## 🌐 Socials:
